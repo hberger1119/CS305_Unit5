@@ -1,12 +1,12 @@
-# CS305_Unit5
+# **CS305_Unit5**
 The repository for Unit 5 of CS305
 
-# Tallying the Number of Rubber Ducks on Campus
+# **Tallying the Number of Rubber Ducks on Campus**
 ## and figureuring out the most popular rubber duck types
 ### This project will compose of using surverye information to figure out how many rubber ducks (on average) people own on campus. It will also figure out what the most popular type of rubber duck is and even recommend other types of rubber ducks!
 
-# License Information
-### This is free and unencumbered software released into the public domain.
+# **License Information**
+>### This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
 distribute this software, either in source code form or as a compiled
